@@ -29,7 +29,7 @@ This Python script provides functions to:
 
 1. Run the script:
 ```bash
-python script.py
+python combined_password_tool.py
 ```
 
 2. Select menu:
